@@ -1,0 +1,31 @@
+{
+  "name": "Gestão de Despesas de Viagem",
+  "short_name": "GestaoDespesasViagens",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "white",
+  "orientation": "portrait",
+  "description": "Gestão para Despesas de Viagens",
+  "icons": [
+    {
+      "src": "/assets/icones-atalho/40.png",
+      "sizes": "40x40",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icones-atalho/60.png",
+      "sizes": "60x60",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icones-atalho/87.png",
+      "sizes": "87x87",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icones-atalho/120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    }
+  ]
+}
